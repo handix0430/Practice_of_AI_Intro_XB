@@ -17,3 +17,4 @@ python 3.11
 
 sklearn 1.3.0
 
+pytorch 2.0.1
